@@ -13,8 +13,13 @@
 6. Amazon
 7. Google
 8. IBM
+9. Zalando
+10. N26
+11. 
 
-
+#### Hamburg
+1. IBM
+2. 
 
 #### Stuttgart
 1. IBM
